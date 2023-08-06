@@ -7,7 +7,7 @@ This is a web based application developed for health related website in india
 
 **Project Link** - https://ambitious-moss-068427f00.3.azurestaticapps.net
 
-**Demo video link** -
+**Demo video link** -https://youtu.be/NBSoTeoMxm4
 
 **Azure Technologies used for project**
 
